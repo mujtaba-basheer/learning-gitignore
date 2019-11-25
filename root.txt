@@ -1,0 +1,2 @@
+You are in the root folder.
+If gitignore works, you shouldn't see a .html file here.

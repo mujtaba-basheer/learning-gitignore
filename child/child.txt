@@ -1,0 +1,1 @@
+Hello, if the gitignore file worked properly, you should not be seeing a 'nested_child' folder here.
